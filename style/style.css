@@ -79,6 +79,10 @@ header>p {
 }
 
 nav {
+    /*Display stuff*/
+    display: flex;
+    align-items: center;
+    justify-content: center;
     /*Box model stuff*/
     padding: 10px;
     background-color: var(--cor5);
